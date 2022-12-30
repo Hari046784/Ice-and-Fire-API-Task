@@ -1,0 +1,16 @@
+.container{
+    background-color: rgb(223, 206, 97);
+    padding-top: 35px;
+    border-radius: 15px;
+}
+.display-3{
+    padding-bottom: 35px;
+}
+#form{
+    padding-top: 25px;
+    border-top: 5px solid #782222;
+}
+.alignment{
+    margin-left: 2px;
+    padding-bottom: 10px;
+}
